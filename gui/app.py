@@ -9,7 +9,7 @@ from core.config import Config
 from core.detector import GestureDetector
 
 
-# Colour palette
+# Color palette
 BG      = "#0d0d0d"
 PANEL   = "#1a1a1a"
 BORDER  = "#2a2a2a"
