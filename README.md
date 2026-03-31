@@ -141,9 +141,3 @@ Settings can be modified in `core/config.py`.
 | `COOLDOWN_SECONDS` | Time between repeated gesture actions |
 | `REQUIRED_FRAMES` | Frames needed to confirm a gesture |
 | `FINGER_THRESHOLD` | Finger detection sensitivity |
-
----
-
-## License
-
-MIT License
