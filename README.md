@@ -1,4 +1,4 @@
-# ✋ Gesture Controller
+# Gesture Controller
 
 Control your computer using **hand gestures through your webcam** — no keyboard or mouse required.
 
